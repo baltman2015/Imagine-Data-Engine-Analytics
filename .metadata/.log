@@ -9446,3 +9446,6 @@ java.library.path = .:/Library/Java/Extensions:/System/Library/Java/Extensions:/
 
 !ENTRY org.eclipse.debug.ui 4 120 2014-05-19 03:17:17.099
 !MESSAGE org.eclipse.debug.ui.toggleBreakpointsTargetFactory extension failed to load breakpoint toggle target because the specified id is already registered.  Specified ID is: org.chromium.debug.ui.ChromiumToggleBreakpointTargetFactory
+
+!ENTRY org.eclipse.ui 2 2 2014-05-19 03:23:22.602
+!MESSAGE Invalid preference category path: org.eclipse.vjet.eclipse.javatojs.ui.preferences (bundle: org.eclipse.vjet.eclipse.javatojs.ui, page: org.eclipse.vjet.eclipse.javatojs.ui.preferences.Java2JsPreferencePage)
